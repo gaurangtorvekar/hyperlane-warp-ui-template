@@ -118,7 +118,7 @@ export function TransferTokenForm({ tokenRoutes }: { tokenRoutes: RoutesMap }) {
                 htmlFor="tokenAddress"
                 className="block uppercase text-sm text-gray-500 pl-0.5"
               >
-                ERC-20 Token
+              ERC-1155 Token
               </label>
               <TokenSelectField
                 name="tokenAddress"
